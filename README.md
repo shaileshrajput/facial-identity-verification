@@ -1,5 +1,13 @@
+
+Prerequisites:
+
 pip install opencv-python insightface onnxruntime numpy sqlite3
 python -m pip install onnxruntime
+
+How to run:
+python one.py
+
+Features:- 
 
 Detect – app.get(img) gives bounding boxes & landmarks.
 
